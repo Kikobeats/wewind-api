@@ -1,0 +1,15 @@
+[
+  "\\baletas?\\b",
+  "\\bboards?\\b",
+  "\\bbooms?\\b",
+  "\\bbotavaras?\\b",
+  "\\bdel?\\b",
+  "\\bfins?\\b",
+  "\\bmasts?\\b",
+  "\\btablas?\\b",
+  "\\bvelas?\\b",
+  "\\bvendo\\b",
+  "\\bhinchables?\\b",
+  "\\bwindsurf(?:ing)?\\b",
+  "\\bde\\b"
+]
