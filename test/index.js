@@ -10,7 +10,7 @@ describe('wewind-api', function () {
     key: process.env.API_KEY
   })
 
-  const stream = client.booms.all()
+  const stream = client.booms.new()
   let count = 0
   let buffer = []
 
