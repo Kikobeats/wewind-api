@@ -2,7 +2,7 @@
   "name": "wewind-api",
   "description": "Programatic API access for we-wind.com",
   "homepage": "https://github.com/Kikobeats/wewind-api",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "lib",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
