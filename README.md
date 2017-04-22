@@ -23,7 +23,6 @@ const wewind = require('wewind-api')
 
 const stream = wewind({
   key: process.env.API_KEY, // API Key credentials
-  itemsPerPage: 10000 // Number of items per page [default=10000]
 })
 ```
 
