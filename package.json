@@ -22,7 +22,7 @@
     "windsurf"
   ],
   "dependencies": {
-    "condense-whitespace": "~1.0.0",
+    "condense-whitespace": "~2.0.0",
     "from2": "~2.3.0",
     "got": "~9.6.0",
     "lodash.reduce": "~4.6.0",
